@@ -1,0 +1,22 @@
+{
+  "name": "mentoria-iasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "atalho": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gllisboa/mentoria-iasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gllisboa/mentoria-iasmine/issues"
+  },
+  "homepage": "https://github.com/gllisboa/mentoria-iasmine#readme",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}
